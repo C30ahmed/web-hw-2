@@ -1,0 +1,25 @@
+.search{
+    margin-left:90% ;
+    display: inline-block;
+   }
+   a{
+       display: inline-block;
+   }
+.v60{
+background-image: url(https://tse4.mm.bing.net/th?id=OIP.4vnvNRIRo40NfmtZT7jazgHaFL&pid=Api&P=0&w=243&h=171);
+}
+
+.chemex{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.hBhZYH6fJn-jG3LZiN0hUQHaHa&pid=Api&P=0&w=300&h=300);
+}
+h2{
+    
+    padding: 20px;
+    width: 50pxpx;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div :hover{
+    box-shadow: 5px 5px 3px gray ;
+}
